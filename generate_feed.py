@@ -47,7 +47,18 @@ usati = set()
 for link in links:
 
     href = link.get("href", "")
+
     titolo = link.get_text(strip=True)
+
+    titolo = (
+        titolo
+        .replace("\u2013", "-")
+        .replace("\u2014", "-")
+        .replace("–", "-")
+        .replace("—", "-")
+        .replace("â€“", "-")
+        .replace("â€”", "-")
+    )
 
     if not titolo:
         continue

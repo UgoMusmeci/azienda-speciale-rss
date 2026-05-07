@@ -1,0 +1,285 @@
+============================ 
+AVVIO 07/05/2026 17:44:50,43 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+Traceback (most recent call last):
+  File "C:\GitHub\azienda-speciale-rss\generate_feed.py", line 103, in <module>
+    print(f"ARTICOLO: {titolo}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ugomu\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 43-44: character maps to <undefined>
+Nuove modifiche trovate 
+[main bfe24e3] Aggiornamento automatico feed RSS
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/UgoMusmeci/azienda-speciale-rss.git
+   bb36507..bfe24e3  main -> main
+COMPLETATO 07/05/2026 17:44:54,04 
+============================ 
+============================ 
+AVVIO 07/05/2026 17:45:27,54 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+Traceback (most recent call last):
+  File "C:\GitHub\azienda-speciale-rss\generate_feed.py", line 103, in <module>
+    print(f"ARTICOLO: {titolo}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ugomu\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 43-44: character maps to <undefined>
+Nessuna modifica al feed 
+COMPLETATO 07/05/2026 17:45:28,74 
+============================ 
+============================ 
+AVVIO 07/05/2026 17:45:37,38 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+Traceback (most recent call last):
+  File "C:\GitHub\azienda-speciale-rss\generate_feed.py", line 103, in <module>
+    print(f"ARTICOLO: {titolo}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ugomu\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 43-44: character maps to <undefined>
+Nessuna modifica al feed 
+COMPLETATO 07/05/2026 17:45:38,56 
+============================ 
+============================ 
+AVVIO 07/05/2026 17:57:26,95 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+ARTICOLO: Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+DATA TROVATA: 24/2/2026
+ARTICOLO: Sospensione servizio di raccolta rifiuti
+DATA TROVATA: 19/1/2026
+ARTICOLO: Chiusura cimiteri comunali
+DATA TROVATA: 19/1/2026
+ARTICOLO: Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+DATA TROVATA: 2/12/2025
+ARTICOLO: Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+DATA TROVATA: 30/10/2025
+
+========== ORDINE FINALE ==========
+
+10/03/2026 - Esumazione ordinarie 2026
+26/02/2026 - Accertamenti TARI 2020
+24/02/2026 - Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+19/01/2026 - Sospensione servizio di raccolta rifiuti
+19/01/2026 - Chiusura cimiteri comunali
+02/12/2025 - Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+30/10/2025 - Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+
+===================================
+
+Feed creato con 7 elementi
+Feed salvato in: C:\GitHub\azienda-speciale-rss\feed.xml
+Nuove modifiche trovate 
+[main db649d7] Aggiornamento automatico feed RSS
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+To https://github.com/UgoMusmeci/azienda-speciale-rss.git
+   bfe24e3..db649d7  main -> main
+COMPLETATO 07/05/2026 17:57:33,05 
+============================ 
+============================ 
+AVVIO 07/05/2026 18:15:56,30 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+ARTICOLO: Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+DATA TROVATA: 24/2/2026
+ARTICOLO: Sospensione servizio di raccolta rifiuti
+DATA TROVATA: 19/1/2026
+ARTICOLO: Chiusura cimiteri comunali
+DATA TROVATA: 19/1/2026
+ARTICOLO: Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+DATA TROVATA: 2/12/2025
+ARTICOLO: Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+DATA TROVATA: 30/10/2025
+
+========== ORDINE FINALE ==========
+
+10/03/2026 - Esumazione ordinarie 2026
+26/02/2026 - Accertamenti TARI 2020
+24/02/2026 - Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+19/01/2026 - Sospensione servizio di raccolta rifiuti
+19/01/2026 - Chiusura cimiteri comunali
+02/12/2025 - Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+30/10/2025 - Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+
+===================================
+
+Feed creato con 7 elementi
+Feed salvato in: C:\GitHub\azienda-speciale-rss\feed.xml
+Nuove modifiche trovate 
+[main 294bb18] Aggiornamento automatico feed RSS
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+To https://github.com/UgoMusmeci/azienda-speciale-rss.git
+   db649d7..294bb18  main -> main
+COMPLETATO 07/05/2026 18:16:00,83 
+============================ 
+============================ 
+AVVIO 07/05/2026 19:15:55,36 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+ARTICOLO: Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+DATA TROVATA: 24/2/2026
+ARTICOLO: Sospensione servizio di raccolta rifiuti
+DATA TROVATA: 19/1/2026
+ARTICOLO: Chiusura cimiteri comunali
+DATA TROVATA: 19/1/2026
+ARTICOLO: Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+DATA TROVATA: 2/12/2025
+ARTICOLO: Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+DATA TROVATA: 30/10/2025
+
+========== ORDINE FINALE ==========
+
+10/03/2026 - Esumazione ordinarie 2026
+26/02/2026 - Accertamenti TARI 2020
+24/02/2026 - Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+19/01/2026 - Sospensione servizio di raccolta rifiuti
+19/01/2026 - Chiusura cimiteri comunali
+02/12/2025 - Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+30/10/2025 - Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+
+===================================
+
+Feed creato con 7 elementi
+Feed salvato in: C:\GitHub\azienda-speciale-rss\feed.xml
+Nessuna modifica al feed 
+COMPLETATO 07/05/2026 19:15:57,60 
+============================ 
+============================ 
+AVVIO 07/05/2026 20:15:54,29 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+ARTICOLO: Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+DATA TROVATA: 24/2/2026
+ARTICOLO: Sospensione servizio di raccolta rifiuti
+DATA TROVATA: 19/1/2026
+ARTICOLO: Chiusura cimiteri comunali
+DATA TROVATA: 19/1/2026
+ARTICOLO: Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+DATA TROVATA: 2/12/2025
+ARTICOLO: Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+DATA TROVATA: 30/10/2025
+
+========== ORDINE FINALE ==========
+
+10/03/2026 - Esumazione ordinarie 2026
+26/02/2026 - Accertamenti TARI 2020
+24/02/2026 - Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+19/01/2026 - Sospensione servizio di raccolta rifiuti
+19/01/2026 - Chiusura cimiteri comunali
+02/12/2025 - Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+30/10/2025 - Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+
+===================================
+
+Feed creato con 7 elementi
+Feed salvato in: C:\GitHub\azienda-speciale-rss\feed.xml
+Nessuna modifica al feed 
+COMPLETATO 07/05/2026 20:15:56,42 
+============================ 
+============================ 
+AVVIO 07/05/2026 21:15:55,39 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+ARTICOLO: Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+DATA TROVATA: 24/2/2026
+ARTICOLO: Sospensione servizio di raccolta rifiuti
+DATA TROVATA: 19/1/2026
+ARTICOLO: Chiusura cimiteri comunali
+DATA TROVATA: 19/1/2026
+ARTICOLO: Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+DATA TROVATA: 2/12/2025
+ARTICOLO: Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+DATA TROVATA: 30/10/2025
+
+========== ORDINE FINALE ==========
+
+10/03/2026 - Esumazione ordinarie 2026
+26/02/2026 - Accertamenti TARI 2020
+24/02/2026 - Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+19/01/2026 - Sospensione servizio di raccolta rifiuti
+19/01/2026 - Chiusura cimiteri comunali
+02/12/2025 - Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+30/10/2025 - Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+
+===================================
+
+Feed creato con 7 elementi
+Feed salvato in: C:\GitHub\azienda-speciale-rss\feed.xml
+Nessuna modifica al feed 
+COMPLETATO 07/05/2026 21:15:57,74 
+============================ 
+============================ 
+AVVIO 07/05/2026 22:15:57,27 
+Scarico homepage Azienda Speciale...
+Homepage scaricata
+ARTICOLO: Esumazione ordinarie 2026
+DATA TROVATA: 10/3/2026
+ARTICOLO: Accertamenti TARI 2020
+DATA TROVATA: 26/2/2026
+ARTICOLO: Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+DATA TROVATA: 24/2/2026
+ARTICOLO: Sospensione servizio di raccolta rifiuti
+DATA TROVATA: 19/1/2026
+ARTICOLO: Chiusura cimiteri comunali
+DATA TROVATA: 19/1/2026
+ARTICOLO: Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+DATA TROVATA: 2/12/2025
+ARTICOLO: Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+DATA TROVATA: 30/10/2025
+
+========== ORDINE FINALE ==========
+
+10/03/2026 - Esumazione ordinarie 2026
+26/02/2026 - Accertamenti TARI 2020
+24/02/2026 - Emissione luci votive anno 2026 per Cimiteri di Carlentini e Pedagaggi
+19/01/2026 - Sospensione servizio di raccolta rifiuti
+19/01/2026 - Chiusura cimiteri comunali
+02/12/2025 - Sindaci in Contatto 2.0: il nuovo servizio telefonico del Comune di Carlentini
+30/10/2025 - Commemorazione dei defunti 2025 - Orari di apertura cimiteri comunali
+
+===================================
+
+Feed creato con 7 elementi
+Feed salvato in: C:\GitHub\azienda-speciale-rss\feed.xml
+Nessuna modifica al feed 
+COMPLETATO 07/05/2026 22:15:59,39 
+============================ 
