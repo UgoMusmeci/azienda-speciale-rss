@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+
     <title>Azienda Speciale Carlentini</title>
+
     <link>https://www.aziendaspecialecarlentini.it/</link>
-    <description>Feed RSS automatico Azienda Speciale Carlentini</description>
+
+    <description>
+        Feed RSS automatico Azienda Speciale Carlentini
+    </description>
+
+    <lastBuildDate>
+        Wed, 20 May 2026 12:36:14 GMT
+    </lastBuildDate>
 
     
     <item>
